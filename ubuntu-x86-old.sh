@@ -203,7 +203,7 @@ else
     echo "30 - Ubuntu 21.04 (Hirsute Hippo)"
     echo "31 - Ubuntu 21.10 (Impish Indri)"
     echo "32 - Ubuntu 22.10 (Kinetic Kudu)"
-    echo "33 - All ubuntu versions"
+    
     ;;
   esac 
 
