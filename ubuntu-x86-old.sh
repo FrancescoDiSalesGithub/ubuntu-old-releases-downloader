@@ -1,6 +1,7 @@
 to_download=$1
 
-if [ to_download -eq "" ] then
+if [ to_download -eq "" ]
+then
 
     echo "Choose a number to download the specific version of ubuntu"
     echo "1 - Ubuntu 4.10 (Warty Warthog)"
@@ -38,7 +39,7 @@ if [ to_download -eq "" ] then
 
 else
 
-  case $to_download in:
+  case $to_download in
 
     "1")
       wget https://old-releases.ubuntu.com/releases/warty/warty-release-install-i386.iso
