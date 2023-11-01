@@ -34,7 +34,7 @@ bash ubuntu-x86-old.sh
 ```
 It will show all possible values to pass as argument. Let's suppose you want to download Ubuntu 10.10:
 ```
-bash ubuntu-x86-old.sh 9
+bash ubuntu-x86-old.sh 13
 ```
 
 wait for the script downloading the iso file in your folder
