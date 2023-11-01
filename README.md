@@ -25,3 +25,16 @@ I'm thrilled to announce an incredible opportunity for you to take your skills t
 Hack The Box Academy has earned a stellar reputation for its cutting-edge approach to teaching real-world hacking techniques and cybersecurity principles. With a mission to empower individuals with the knowledge and skills necessary to succeed in the ever-evolving world of cybersecurity, this platform is an absolute game-changer.
 
 Start now: https://referral.hackthebox.com/mzwyliz
+
+# How to use
+Run the script as the follwing:
+```
+bash ubuntu-x86-old.sh
+
+```
+It will show all possible values to pass as argument. Let's suppose you want to download Ubuntu 10.10:
+```
+bash ubuntu-x86-old.sh 9
+```
+
+wait for the script downloading the iso file in your folder
